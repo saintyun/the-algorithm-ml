@@ -1,3 +1,6 @@
+트위터는 트윗 추천에 쓰이는 알고리즘 소스
+번역(설명)  https://devocean.sk.com/blog/techBoardDetail.do?ID=164696
+
 This project open sources some of the ML models used at Twitter.
 
 Currently these are:
